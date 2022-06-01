@@ -155,7 +155,7 @@
 {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/huigutongying.json"},
 {"key":"csp_xpath_dy888","name":"电影888(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/dy888.json"},
 {"key":"csp_xpath_yyotv","name":"小太阳(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/yyotv.json"},
-{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/jiujiukanpian.josn"},
+{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/jiujiukanpian.json"},
 {"key":"csp_xpath_aidi","name":"爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/aidi.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/lezhutv.json"},
 //{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/b/saohuotv2.json"},
