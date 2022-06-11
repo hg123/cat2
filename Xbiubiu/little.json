@@ -111,6 +111,8 @@
 {"key":"csp_biubiu_极品影视","name":"🥒极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/Xbiubiu/极品影视.json"},
 {"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/Xbiubiu/大师兄影视.json"},
 {"key":"csp_biubiu_139影视","name":"🥒139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/Xbiubiu/139影视.json"},
+{"key":"csp_biubiu_dunkfun","name":"🥒dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/Xbiubiu/dunkfun.json"},
+{"key":"csp_biubiu_麻衣高清","name":"🥒麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/hg123/cat2/main/Xbiubiu/麻衣高清.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 //以下直播列表
